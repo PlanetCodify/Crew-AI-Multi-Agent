@@ -69,4 +69,6 @@ This setup is ideal for automating the following contract analysis workflow:
 
 ## <img width="1453" alt="Screenshot 2025-02-25 at 5 05 39 PM" src="https://github.com/user-attachments/assets/d42a0d33-c20e-4a7b-9885-8d7198cf4d31" />
 
+Visit the source of the lab for more details: https://github.com/initmahesh/MLAI-community-labs/tree/main/Class-Labs/Lab-5(CrewAIMulti-Agent-Document-Analysis)
+
 
